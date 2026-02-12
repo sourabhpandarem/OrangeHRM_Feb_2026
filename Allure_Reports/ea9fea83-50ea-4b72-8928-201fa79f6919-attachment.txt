@@ -1,0 +1,5 @@
+2026-02-10 18:00:29,950 : Utilities.logger : test_OrangeHRM_Login_002 : INFO - Verify OrangeHRM Login
+2026-02-10 18:00:58,156 : Utilities.logger : test_OrangeHRM_Login_002 : INFO - Login Successful
+2026-02-10 18:00:58,296 : Utilities.logger : test_OrangeHRM_Login_002 : INFO - Screenshot taken saved successfully
+2026-02-10 18:01:00,183 : Utilities.logger : test_OrangeHRM_Login_002 : INFO - test_OrangeHRM_Login_002 is passed ,completed
+2026-02-10 18:01:00,183 : Utilities.logger : test_OrangeHRM_Login_002 : INFO - ===OrangeHRM Login Test Completed===

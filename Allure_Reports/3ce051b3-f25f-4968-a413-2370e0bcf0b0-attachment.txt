@@ -1,0 +1,10 @@
+2026-02-11 14:37:33,399 : Utilities.logger : test_verify_url_001 : INFO - Verify OrangeHRM Login Page URL
+2026-02-11 14:37:33,399 : Utilities.logger : test_verify_url_001 : INFO - Verify OrangeHRM Login Page URL
+2026-02-11 14:37:41,475 : Utilities.logger : test_verify_url_001 : INFO - OrangeHRM Login Page URL Verified
+2026-02-11 14:37:41,475 : Utilities.logger : test_verify_url_001 : INFO - OrangeHRM Login Page URL Verified
+2026-02-11 14:37:41,787 : Utilities.logger : test_verify_url_001 : INFO - Screenshot taken saved successfully
+2026-02-11 14:37:41,787 : Utilities.logger : test_verify_url_001 : INFO - Screenshot taken saved successfully
+2026-02-11 14:37:41,809 : Utilities.logger : test_verify_url_001 : INFO - test_verify_url_001 is passed ,completed
+2026-02-11 14:37:41,809 : Utilities.logger : test_verify_url_001 : INFO - test_verify_url_001 is passed ,completed
+2026-02-11 14:37:41,809 : Utilities.logger : test_verify_url_001 : INFO - ===OrangeHRM Login Test Completed===
+2026-02-11 14:37:41,809 : Utilities.logger : test_verify_url_001 : INFO - ===OrangeHRM Login Test Completed===

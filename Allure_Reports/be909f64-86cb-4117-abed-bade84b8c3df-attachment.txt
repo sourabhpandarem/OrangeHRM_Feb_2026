@@ -1,0 +1,5 @@
+[32mINFO    [0m Utilities.logger:test_OrangeHRM_Login_DDT_002.py:41 Verify OrangeHRM Login
+[32mINFO    [0m Utilities.logger:test_OrangeHRM_Login_DDT_002.py:50 Login Successful
+[32mINFO    [0m Utilities.logger:test_OrangeHRM_Login_DDT_002.py:52 Screenshot taken saved successfully
+[32mINFO    [0m Utilities.logger:test_OrangeHRM_Login_DDT_002.py:63 test_OrangeHRM_Login_002 is passed ,completed
+[32mINFO    [0m Utilities.logger:test_OrangeHRM_Login_DDT_002.py:64 ===OrangeHRM Login Test Completed===
