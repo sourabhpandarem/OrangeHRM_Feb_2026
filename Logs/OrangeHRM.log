@@ -114,3 +114,26 @@
 2026-02-12 18:04:30,237 : Utilities.logger : test_orange_hrm_login_ddt_003 : ERROR - Login Failed for Username=Admin1
 2026-02-12 18:04:30,380 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Passed for Username=Admin1
 2026-02-12 18:04:30,407 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Results: ['Pass', 'Fail', 'Pass', 'Fail', 'Fail', 'Fail', 'Pass']
+2026-02-13 15:23:34,637 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Starting Test: Verify OrangeHRM Login Functionality
+2026-02-13 15:23:34,819 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Total Rows in Excel: 5
+2026-02-13 15:23:35,005 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Data: Username=Admin, Password=admin123, Expected Result=Login Successful
+2026-02-13 15:23:35,070 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 15:23:39,329 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 15:23:59,673 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Login Successful for Username=Admin
+2026-02-13 15:24:01,831 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Passed for Username=Admin
+2026-02-13 15:24:01,894 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Data: Username=Admin1, Password=admin123, Expected Result=Login Failed
+2026-02-13 15:24:01,894 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 15:24:02,519 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 15:24:33,034 : Utilities.logger : test_orange_hrm_login_ddt_003 : ERROR - Login Failed for Username=Admin1
+2026-02-13 15:24:33,148 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Passed for Username=Admin1
+2026-02-13 15:24:33,200 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Data: Username=Admin, Password=admin1231, Expected Result=Login Failed
+2026-02-13 15:24:33,201 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 15:24:34,021 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 15:25:04,471 : Utilities.logger : test_orange_hrm_login_ddt_003 : ERROR - Login Failed for Username=Admin
+2026-02-13 15:25:04,590 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Passed for Username=Admin
+2026-02-13 15:25:04,646 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Data: Username=Admin1, Password=admin1231, Expected Result=Login Failed
+2026-02-13 15:25:04,646 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Navigating to OrangeHRM Login Page
+2026-02-13 15:25:05,245 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - OrangeHRM Login Page Loaded
+2026-02-13 15:25:35,670 : Utilities.logger : test_orange_hrm_login_ddt_003 : ERROR - Login Failed for Username=Admin1
+2026-02-13 15:25:35,769 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Passed for Username=Admin1
+2026-02-13 15:25:35,792 : Utilities.logger : test_orange_hrm_login_ddt_003 : INFO - Test Results: ['Pass', 'Fail', 'Pass', 'Fail', 'Pass', 'Fail', 'Pass']
